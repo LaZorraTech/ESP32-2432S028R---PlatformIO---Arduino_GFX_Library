@@ -12,4 +12,5 @@ lib with touch + src with touch = display with touch capability
 
 Credit:
 https://github.com/moononournation/Arduino_GFX
+
 https://github.com/PaulStoffregen/XPT2046_Touchscreen
