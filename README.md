@@ -4,5 +4,10 @@ Here are all the files you willl need for getting the ESP32-2432S028R working wi
 
 On my board I need to hold the BOOT button in order to get the flash initiated.
 
+Choose lib + src  = basic display without touch library
+OR
+lib with touch + src with touch = display with touch capability
+
 Credit:
 https://github.com/moononournation/Arduino_GFX
+https://github.com/PaulStoffregen/XPT2046_Touchscreen
